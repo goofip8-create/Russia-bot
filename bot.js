@@ -235,7 +235,7 @@ async function sendMenuWithVideo(sock, chatId, message) {
 
 ┣━ 👤 *ru [رقم]*
 ┃    → جلب بروفايل حقيقي
-┃    → مثال: ru 01069679310
+┃    → مثال: ru 01226003711
 ┃
 ┣━ 📸 *ru2* (رد على ميديا)
 ┃    → سحب View Once
