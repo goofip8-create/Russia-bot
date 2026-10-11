@@ -1,0 +1,8 @@
+session/
+data/
+temp/
+node_modules/
+*.mp4
+*.log
+.env
+.sys_*.dat
